@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  background-size: cover;
+  height: 100vh;
+}
